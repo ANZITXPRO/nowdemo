@@ -17,7 +17,7 @@
 									We believe in the power of teams.  We take care of our employees, have fitness rooms
 									and casual dress, and we don't believe in walls!
 									
-									<H3> Welcome Team! </H3>
+									<H3> Welcome Team!! </H3>
 								</p>
 							</div>
 						</div>
